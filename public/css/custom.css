@@ -1,0 +1,38 @@
+.price_box {
+    background: #F2f2f2;
+    text-align: center;
+}
+.price_title {
+    background: #333;
+    color: #fff;
+    padding: 4px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.plan_cont {
+    padding: 20px;
+    font-size: 16px;
+}
+.plan_cont p {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.buyNow a {
+    font-size: 14px;
+    background: #007bff;
+    padding: 7px 16px;
+    display: inline-block;
+    margin-bottom: 30px;
+    color: #fff;
+    font-weight: 500;
+}
+.hidescript{
+    display: none;
+}
+.customButton{
+    padding: 6px 10px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    margin-bottom: 10px;
+}
